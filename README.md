@@ -91,4 +91,80 @@
 
 ١- المستشعرات.
 ٢- طريقة الاتصال.
-٣- تبادل البيانات. 
+٣- تبادل البيانات.
+
+
+
+
+
+
+الاشياء الذكية | Smart Objects
+
+كائنات مادية تحتوي على مضمنة التكنولوجيا للاستشعار والتفاعل مع بيئتهم في طريقة ذات مغزى من خلال الترابط والتمكين التواصل فيما بينهم.     
+
+المستشعرات 
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641651690398_++--++...png)
+
+
+الاختلاف بين المستشعرات 
+
+
+- المدى 
+- المسافة : درجة الحرارة ، درجةالحساسية
+- نسبة الخطأ
+
+أنواع مختلفة من المستشعرات 
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641651954235_++--++...png)
+
+
+ملخص 
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641652019255_++--++...png)
+
+
+
+مشغل | actuator
+
+- هو عكس المستشعر .
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641652111351_++--++...png)
+
+
+أنواع actuator 
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641652196441_++--++...png)
+
+
+المحكمات الدقيقة MCU 
+
+١- وحدة معالجة مركزية
+ ٢- ذاكرة 
+ ٣- منافذ input , output
+ 
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641652299714_++--++...png)
+
+
+الحواسيب أحادية اللوحة SBC 
+
+كومبيوتر صغير . 
+
+سير العملية 
+
+
+![](https://paper-attachments.dropbox.com/s_6F348AC67C0FECF596E6E1CB71AE139BE7EAE5F35281837A29764FC5438B94A2_1641652380755_++--++...png)
+
+
+
+ماهي IOT Applications ؟ 
+
+Home Automation 
+- Healthcare 
+- Monitoring Assets 
